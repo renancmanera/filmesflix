@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/filmesflix/static/css/main.9fe327c7.css",
-    "main.js": "/filmesflix/static/js/main.2b0036aa.js",
+    "main.js": "/filmesflix/static/js/main.67f00ad5.js",
     "index.html": "/filmesflix/index.html",
     "main.9fe327c7.css.map": "/filmesflix/static/css/main.9fe327c7.css.map",
-    "main.2b0036aa.js.map": "/filmesflix/static/js/main.2b0036aa.js.map"
+    "main.67f00ad5.js.map": "/filmesflix/static/js/main.67f00ad5.js.map"
   },
   "entrypoints": [
     "static/css/main.9fe327c7.css",
-    "static/js/main.2b0036aa.js"
+    "static/js/main.67f00ad5.js"
   ]
 }
