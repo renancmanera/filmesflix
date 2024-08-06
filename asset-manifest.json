@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/github.io/filmesflix/static/css/main.9fe327c7.css",
+    "main.js": "/github.io/filmesflix/static/js/main.2b0036aa.js",
+    "index.html": "/github.io/filmesflix/index.html",
+    "main.9fe327c7.css.map": "/github.io/filmesflix/static/css/main.9fe327c7.css.map",
+    "main.2b0036aa.js.map": "/github.io/filmesflix/static/js/main.2b0036aa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9fe327c7.css",
+    "static/js/main.2b0036aa.js"
+  ]
+}
